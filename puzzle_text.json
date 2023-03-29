@@ -2,7 +2,7 @@
 	"old_map_puzzle" : {
 		"completed": "Well Done! You found a piece of my plan hidden behind the differences in the maps",
 		"hint1": "This picture looks slightly  different to the one hanging in the 17th century room",
-		"hint2": "There are 5 differences, these are: compass is the wrong colour, boat to left of compass is missing, blue and white flag on land should be english flag, top left river is missing, boat in top right shouldnt be there"
+		"hint2": "There are 5 differences, these are: compass is the wrong colour, boat to left of compass is missing, blue and white flag in the middle should be english flag, top left river is missing, boat in top right shouldnt be there"
 	},
 	"spinning_wheel_puzzle" : {
 		"completed":"Well Done! Stopping the wheel on the year this spinning wheel was made opened a secret compartment containing a piece of my plan",
@@ -16,15 +16,15 @@
 	},
 	"portrait_puzzle": {
 		"completed": "Well Done! There was a piece of my plan hidden behind the picture",
-		"hint1": "I wonder who the portrait is off, its found in the Deer Park Parlor",
-		"hint2": "Typing in the name of the man this picture is thought to be a picture off should give you another puzzle, The man is thought to be Daniel Coker",
+		"hint1": "I wonder who is sitting for the portrait, its found in the Deer Park Parlor",
+		"hint2": "Typing in the name of the man thought to be sitting for this picture should give you another puzzle, The man is thought to be Daniel Coker",
 		"hint3": "The background this map is on looks interesting",
-		"hint4": "Clicking on the state which the Stenciled Bredroom is set up from should give you a piece of the plan, This state is Connecticut"
+		"hint4": "Clicking on the state which the Stenciled Bedroom is set up from should give you a piece of the plan, This state is Connecticut"
 	},
 	"shaker_puzzle": {
 		"completed": "Well Done! Hanging up all the Shaker's stuff seemed to make a piece of my plan drop out of the coat",
         "hint1": "The peg rack and items look like those in the Shaker Sister's Workroom",
-        "hint2": "Hanging the items on the pegs in the order they are in the Shaker Sister's Workroom should give you a piece of the plan. This order is Candle, Sock, Coat, board, Chair"
+        "hint2": "Hanging the items on the pegs in the order they are in the Shaker Sister's Workroom should give you a piece of the plan. This order is Candle, Sock, Coat, Board, Chair"
 	},
 	"harp_puzzle":{
 		"completed": "Well Done! Playing the strings in the right order made a secret compartment open which contained a piece of my plan",
