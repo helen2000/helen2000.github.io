@@ -1,67 +1,67 @@
 {
-	"conkeys_puzzle" : {
-		"completed": "Well Done! You found a piece of my plan hidden behind the differences in the maps",
-		"hint1": "Re-arrage the engraving to be the same as the one above the fireplace in Conkey's Tavern",
-		"hint2": "The text to be arranged to have the inscription `William Conkey June Ye 21st AD 1776`"
-	},
-	"17_cent_puzzle" : {
-		"completed": "Well Done! You found a piece of my plan hidden behind the differences in the maps",
-		"hint1": "This picture looks slightly  different to the one hanging in the 17th century room",
-		"hint2": "There are 5 differences, these are: compass is the wrong colour, boat to left of compass is missing, the big grey fish should be blue, top left river is missing, boat in top right shouldnt be there"
-	},
-	"lee_puzzle" : {
-		"completed":"Well Done! Stopping the wheel on the year this spinning wheel was made opened a secret compartment containing a piece of my plan",
-		"hint1": "The wheel looks like it can be stopped on different numbers, could it have anything to do with the year of the Lee Room",
-		"hint2": "Stopping the wheel on the year this room is set in (1740) completes the puzzle"
-	},
-	"perley_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "Count up the number of objects in this room that can be represented by each symbol to give you a code",
-		"hint2": "Enter the code 4212 to complete the puzzle"
-	},
-	"quilt_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "The quilt looks like a mixed up version of one hung in the Textiles Room",
-		"hint2": "Re-arranging the quilt to look like the one in the Textiles room should give you a piece of the plan"
-	},
-	"deming_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "Find the difference between each portrait on the screen and the one displayed in this room",
-		"hint2": "From left to right the differences are: the woman should be wearing a tiara and the man should be carrying a book"
-	},
-	"furniture_craftmen_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "The year associated with this painting should be in the room",
-		"hint2": "This painting was completed in 1780, entering this into the box completes the puzzle"
-	},
-	"deer_puzzle": {
-		"completed": "Well Done! There was a piece of my plan hidden behind the picture",
-		"hint1": "Find the name of the person sitting for this portrait",
-		"hint2": "The man is thought to be Daniel Coker, entering this into the box completes the puzzle"
-	},
-	"stencil_puzzle": {
-		"completed": "Well Done! There was a piece of my plan hidden behind the picture",
-		"hint1": "The background this map is the same as the wall paper, what state is this from",
-		"hint2": "The state is Connecticut, found in the top right of America, clicking on this should complete the puzzle"
-	},
-	"shaker_puzzle": {
-		"completed": "Well Done! Hanging up all the Shaker's stuff seemed to make a piece of my plan drop out of the coat",
-        "hint1": "The items could be arranged in the order they are in the room",
-        "hint2": "This order to hang the items in is Coat, Mirror, Candle, Sock, Chair"
-	},
-	"german_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "Count up the number of objects in this room that are models of each animal to give you a code",
-		"hint2": "Enter the code 2131 to complete the puzzle"
-	},
-	"greek_puzzle":{
-		"completed": "Well Done! Playing the strings in the right order made a secret compartment open which contained a piece of my plan",
-		"hint1": "Count up the number of objects in the room relating to each carving on the harp and play this pattern", 
-		"hint2": "The string pattern played should be string 1 (piano), string 6 (cresents), string 1 (piano), string 2 (globes), string 3 (windows) "
-	},
-	"new_orleans_puzzle": {
-		"completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
-		"hint1": "The picture is a mixed up version of the one on the wall",
-		"hint2": "Re-arranging it to look like the one on the wall completes the puzzle"
-	}
+  "conkeys_puzzle": {
+    "completed": "Well Done! You found a piece of my plan hidden behind the differences in the maps",
+    "hint1": "Re-arrage the engraving to be the same as the one above the fireplace in Conkey's Tavern",
+    "hint2": "The text to be arranged to have the inscription `William Conkey June Ye 21st AD 1776`"
+  },
+  "17_cent_puzzle": {
+    "completed": "Well Done! You found a piece of my plan hidden behind the differences in the maps",
+    "hint1": "This picture looks slightly  different to the one hanging in the 17th century room",
+    "hint2": "There are 5 differences, these are: compass is the wrong colour, boat to left of compass is missing, the big grey fish should be blue, top left river is missing, boat in top right shouldnt be there"
+  },
+  "lee_puzzle": {
+    "completed": "Well Done! Stopping the wheel on the year this spinning wheel was made opened a secret compartment containing a piece of my plan",
+    "hint1": "The wheel looks like it can be stopped on different numbers, could it have anything to do with the year of the Lee Room",
+    "hint2": "Stopping the wheel on the year this room is set in (1740) completes the puzzle"
+  },
+  "perley_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "Count up the number of objects in this room that can be represented by each symbol to give you a code",
+    "hint2": "Enter the code 4212 to complete the puzzle"
+  },
+  "quilt_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "The quilt looks like a mixed up version of one hung in the Textiles Room",
+    "hint2": "Re-arranging the quilt to look like the one in the Textiles room should give you a piece of the plan"
+  },
+  "deming_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "Find the difference between each portrait on the screen and the one displayed in this room",
+    "hint2": "From left to right the differences are: the woman should be wearing a tiara and the man should be carrying a book"
+  },
+  "furniture_craftmen_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "The year associated with this painting should be in the room",
+    "hint2": "This painting was completed in 1780, entering this into the box completes the puzzle"
+  },
+  "deer_puzzle": {
+    "completed": "Well Done! There was a piece of my plan hidden behind the picture",
+    "hint1": "Find the name of the person sitting for this portrait",
+    "hint2": "The man is thought to be Daniel Coker, entering this into the box completes the puzzle"
+  },
+  "stencil_puzzle": {
+    "completed": "Well Done! There was a piece of my plan hidden behind the picture",
+    "hint1": "The background this map is the same as the wall paper, what state is this from",
+    "hint2": "The state is Connecticut, found in the top right of America, clicking on this should complete the puzzle"
+  },
+  "shaker_puzzle": {
+    "completed": "Well Done! Hanging up all the Shaker's stuff seemed to make a piece of my plan drop out of the coat",
+    "hint1": "The items could be arranged in the order they are in the room",
+    "hint2": "This order to hang the items in is Coat, Mirror, Candle, Sock, Chair"
+  },
+  "german_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "Count up the number of objects in this room that are models of each animal to give you a code",
+    "hint2": "Enter the code 2131 to complete the puzzle"
+  },
+  "greek_puzzle": {
+    "completed": "Well Done! Playing the strings in the right order made a secret compartment open which contained a piece of my plan",
+    "hint1": "Count up the number of objects in the room relating to each carving on the harp and play this pattern",
+    "hint2": "The string pattern played should be string 1 (piano), string 6 (cresents), string 1 (piano), string 2 (globes), string 3 (windows) "
+  },
+  "new_orleans_puzzle": {
+    "completed": "Well Done! Putting the quilt back together made a piece of my plan drop out of it",
+    "hint1": "The picture is a mixed up version of the one on the wall",
+    "hint2": "Re-arranging it to look like the one on the wall completes the puzzle"
+  }
 }
